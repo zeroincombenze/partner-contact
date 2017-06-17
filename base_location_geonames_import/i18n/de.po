@@ -3,13 +3,13 @@
 # * base_location_geonames_import
 # 
 # Translators:
-# Rudolf Schnapka <rs@techno-flex.de>, 2015-2016
+# Rudolf Schnapka <rs@techno-flex.de>, 2015-2017
 msgid ""
 msgstr ""
 "Project-Id-Version: partner-contact (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-03 00:58+0000\n"
-"PO-Revision-Date: 2016-02-25 13:03+0000\n"
+"POT-Creation-Date: 2017-02-21 16:57+0000\n"
+"PO-Revision-Date: 2017-02-24 22:42+0000\n"
 "Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-partner-contact-8-0/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -42,6 +42,11 @@ msgstr "erstellt von"
 #: field:better.zip.geonames.import,create_date:0
 msgid "Created on"
 msgstr "erstellt am"
+
+#. module: base_location_geonames_import
+#: field:better.zip.geonames.import,display_name:0
+msgid "Display Name"
+msgstr "Anzeigename"
 
 #. module: base_location_geonames_import
 #: view:better.zip.geonames.import:base_location_geonames_import.better_zip_geonames_import_form
@@ -78,6 +83,11 @@ msgstr "Importiere bessere PLZ von geonames.org"
 #: model:ir.ui.menu,name:base_location_geonames_import.better_zip_geonames_import_menu
 msgid "Import from Geonames"
 msgstr "Importiere von Geonames"
+
+#. module: base_location_geonames_import
+#: field:better.zip.geonames.import,__last_update:0
+msgid "Last Modified on"
+msgstr "Zuletzt verändert am"
 
 #. module: base_location_geonames_import
 #: field:better.zip.geonames.import,write_uid:0

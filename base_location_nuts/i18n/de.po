@@ -3,14 +3,14 @@
 # * base_location_nuts
 # 
 # Translators:
-# Rudolf Schnapka <rs@techno-flex.de>, 2015
+# Rudolf Schnapka <rs@techno-flex.de>, 2015,2017
 msgid ""
 msgstr ""
 "Project-Id-Version: partner-contact (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-26 01:49+0000\n"
-"PO-Revision-Date: 2016-02-25 17:29+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
+"POT-Creation-Date: 2017-02-21 16:57+0000\n"
+"PO-Revision-Date: 2017-02-25 00:03+0000\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-partner-contact-8-0/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,6 +49,11 @@ msgstr "erstellt von"
 #: field:nuts.import,create_date:0 field:res.partner.nuts,create_date:0
 msgid "Created on"
 msgstr "erstellt am"
+
+#. module: base_location_nuts
+#: field:nuts.import,display_name:0 field:res.partner.nuts,display_name:0
+msgid "Display Name"
+msgstr "Anzeigebezeichnung"
 
 #. module: base_location_nuts
 #: code:addons/base_location_nuts/wizard/nuts_import.py:128
@@ -100,6 +105,11 @@ msgid "Import NUTS items from European RAMON service"
 msgstr "Importiere NUTS-Elemente vom Europäischen RAMON-Dienst"
 
 #. module: base_location_nuts
+#: field:nuts.import,__last_update:0 field:res.partner.nuts,__last_update:0
+msgid "Last Modified on"
+msgstr "Zuletzt verändert am"
+
+#. module: base_location_nuts
 #: field:nuts.import,write_uid:0 field:res.partner.nuts,write_uid:0
 msgid "Last Updated by"
 msgstr "zuletzt aktualisiert von"
@@ -118,12 +128,12 @@ msgstr "Stufe"
 #. module: base_location_nuts
 #: help:res.country,state_level:0
 msgid "Level for the state NUTS category."
-msgstr ""
+msgstr "Ebene für NUTS-Kategorie Bundesland"
 
 #. module: base_location_nuts
 #: view:res.country:base_location_nuts.view_country_form
 msgid "NUTS"
-msgstr ""
+msgstr "NUTS"
 
 #. module: base_location_nuts
 #: model:ir.model,name:base_location_nuts.model_res_partner_nuts
@@ -142,25 +152,25 @@ msgstr "NUTS-Elemente"
 #: view:res.partner:base_location_nuts.view_res_partner_filter_nuts
 #: field:res.partner,nuts1_id:0
 msgid "NUTS L1"
-msgstr ""
+msgstr "NUTS L1"
 
 #. module: base_location_nuts
 #: view:res.partner:base_location_nuts.view_res_partner_filter_nuts
 #: field:res.partner,nuts2_id:0
 msgid "NUTS L2"
-msgstr ""
+msgstr "NUTS L2"
 
 #. module: base_location_nuts
 #: view:res.partner:base_location_nuts.view_res_partner_filter_nuts
 #: field:res.partner,nuts3_id:0
 msgid "NUTS L3"
-msgstr ""
+msgstr "NUTS L3"
 
 #. module: base_location_nuts
 #: view:res.partner:base_location_nuts.view_res_partner_filter_nuts
 #: field:res.partner,nuts4_id:0
 msgid "NUTS L4"
-msgstr ""
+msgstr "NUTS L4"
 
 #. module: base_location_nuts
 #: field:res.partner.nuts,name:0
@@ -205,7 +215,7 @@ msgstr "Bundesland"
 #. module: base_location_nuts
 #: field:res.country,state_level:0
 msgid "State level"
-msgstr ""
+msgstr "Landesebene"
 
 #. module: base_location_nuts
 #: view:nuts.import:base_location_nuts.nuts_import_form
