@@ -3,12 +3,15 @@
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/partner-contact/badge.svg?branch=10.0)](https://coveralls.io/github/zeroincombenze/partner-contact?branch=10.0)
 [![codecov](https://codecov.io/gh/zeroincombenze/partner-contact/branch/10.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/partner-contact/branch/10.0)
 [![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-10.svg)](https://github.com/OCA/partner-contact/tree/10.0)
-[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/10.0)
-[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/man/)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+================================================================================================
+
 OCA partner and contact management modules for Odoo
-===================================================
 
 This project is meant to gather all community extensions about partner and contact management for Odoo.
 
@@ -22,7 +25,6 @@ Here you should find community modules that:
 [//]: # (addons)
 
 Available addons
-----------------
 addon | version | summary
 --- | --- | ---
 [base_location](base_location/) | 10.0.1.0.1 | Enhanced zip/npa management system
@@ -59,7 +61,6 @@ addon | version | summary
 
 
 Unported addons
----------------
 addon | version | summary
 --- | --- | ---
 [account_partner_merge](account_partner_merge/) | 1.0 (unported) | Account Partner Merge
@@ -73,7 +74,6 @@ addon | version | summary
 [//]: # (end addons)
 
 Translation Status
-------------------
 [![Transifex Status](https://www.transifex.com/projects/p/OCA-partner-contact-10-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-partner-contact-10-0)
 
 ----
