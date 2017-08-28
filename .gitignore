@@ -56,3 +56,4 @@ coverage.xml
 stdout.log
 *.oca
 *.z0i
+.gitrepname
