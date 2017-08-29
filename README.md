@@ -24,7 +24,10 @@ Here you should find community modules that:
 * Etc.
 
 [//]: # (addons)
+
+
 Available addons
+----------------
 addon | version | summary
 --- | --- | ---
 [base_location](base_location/) | 9.0.1.0.0 | Enhanced zip/npa management system
@@ -50,7 +53,9 @@ addon | version | summary
 [partner_multi_relation](partner_multi_relation/) | 9.0.1.1.1 | Partner relations
 [partner_sector](partner_sector/) | 9.0.1.0.1 | Add partner sectors
 
+
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [account_partner_merge](account_partner_merge/) | 1.0 (unported) | Account Partner Merge
