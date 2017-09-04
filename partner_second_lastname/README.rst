@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
 =================================================================
@@ -27,8 +27,10 @@ Contact partners will need to fill at least one of the name fields
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 You can configure some common name patterns for the inverse function
@@ -49,6 +51,8 @@ These methods can be overridden to change the format specified above.
 
 
 Usage
+-----
+
 -----
 
 =====
@@ -76,6 +80,7 @@ Known issues / Roadmap
 ----------------------
 
 
+
 Patterns for the inverse function are configurable only at system level. Maybe
 this configuration could depend on partner language, country or company,
 as discussed at `this OCA issue <https://github.com/OCA/partner-contact/issues/210>`_
@@ -83,6 +88,7 @@ as discussed at `this OCA issue <https://github.com/OCA/partner-contact/issues/2
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -96,9 +102,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <jairo.llopis@tecnativa.com>.
@@ -108,6 +117,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

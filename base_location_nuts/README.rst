@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
     :alt: License: AGPL-3
 =========================
@@ -29,6 +29,7 @@ Installation
 ------------
 
 
+
 We recommend to install another addon (one for each country) in order to relate
 NUTS with states defined by each localization addon, for example:
 
@@ -38,6 +39,7 @@ NUTS with states defined by each localization addon, for example:
 
 Configuration
 -------------
+
 
 
 After installation, you must click at import wizard to populate NUTS items
@@ -54,6 +56,8 @@ you must re-build NUTS clicking this wizard again.
 Usage
 -----
 
+-----
+
 =====
 
 Only Administrator can manage NUTS list (it is not neccesary because
@@ -67,8 +71,10 @@ in order to allow to assign them to partner object.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -80,9 +86,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafael.blasco@tecnativa.com>
@@ -93,6 +102,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

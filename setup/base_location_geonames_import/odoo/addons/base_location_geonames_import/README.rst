@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
 ================================================================
@@ -22,11 +22,13 @@ Installation
 ------------
 
 
+
 To install this module, you need these Python libraries: requests and
 unicodecsv.
 
 Configuration
 -------------
+
 
 
 To access the menu to import better zip entries from Geonames, you must add yourself to the groups *Technical features* and *Sales manager*.
@@ -36,6 +38,8 @@ If want want/need to modify the default URL
 system parameter.
 
 Usage
+-----
+
 -----
 
 =====
@@ -55,8 +59,10 @@ better zip entries.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -68,9 +74,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Alexis de Lattre <alexis.delattre@akretion.com>
@@ -87,6 +96,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

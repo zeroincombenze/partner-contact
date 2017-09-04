@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
 =================================================================
@@ -22,8 +22,10 @@ This module adds the concept of economic sector for partners.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To manage sectors, you need to:
@@ -32,6 +34,8 @@ To manage sectors, you need to:
 
 
 Usage
+-----
+
 -----
 
 =====
@@ -51,11 +55,13 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * Add a unique constraint for name per parent sector.
 
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/partner-contact/issues>`_.
@@ -66,9 +72,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafabn@antiun.com>
@@ -81,6 +90,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png
