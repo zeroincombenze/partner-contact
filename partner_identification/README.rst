@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
 ================================================================
@@ -32,11 +32,13 @@ Installation
 ------------
 
 
+
 No specific installation step required
 
 
 Configuration
 -------------
+
 
 
 Configure all ID types you need in Sales > Configuration > Address Book > Partner ID Categories.
@@ -51,6 +53,8 @@ Python validation code:
 
 
 Usage
+-----
+
 -----
 
 =====
@@ -84,12 +88,14 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * If you want to search a partner by ID you will use advance search form.
   You can't search by issuer, valid dates, category or notes.
 
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -106,9 +112,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Antonio Espinosa <antonioea@antiun.com>
@@ -120,6 +129,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

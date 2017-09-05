@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
     :alt: License: AGPL-3
 =========================
@@ -21,10 +21,14 @@ having separate last name and first name.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -54,16 +58,21 @@ For further information, please visit:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Nicolas Bessi <nicolas.bessi@camptocamp.com>
@@ -92,6 +101,8 @@ Translations
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

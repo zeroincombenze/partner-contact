@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -28,48 +28,48 @@ Here you should find community modules that:
 
 Available addons
 ----------------
-addon | version | summary
---- | --- | ---
-[base_location](base_location/) | 9.0.1.0.0 | Enhanced zip/npa management system
-[base_location_geonames_import](base_location_geonames_import/) | 9.0.1.0.1 | Import better zip entries from Geonames
-[base_partner_merge](base_partner_merge/) | 9.0.1.0.0 | Partner merge wizard without dependency on CRM
-[partner_address_street3](partner_address_street3/) | 9.0.1.1.0 | Street3 in addresses
-[partner_contact_birthdate](partner_contact_birthdate/) | 9.0.1.0.0 | Contact's birthdate
-[partner_contact_department](partner_contact_department/) | 9.0.1.0.0 | Assign contacts to departments
-[partner_contact_gender](partner_contact_gender/) | 9.0.1.1.0 | Add gender field to contacts
-[partner_contact_height](partner_contact_height/) | 9.0.1.0.0 | Provide contact height.
-[partner_contact_in_several_companies](partner_contact_in_several_companies/) | 9.0.1.0.0 | Allow to have one contact in several partners
-[partner_contact_job_position](partner_contact_job_position/) | 9.0.1.0.0 | Categorize job positions for contacts
-[partner_contact_nationality](partner_contact_nationality/) | 9.0.1.0.0 | Add nationality field to contacts
-[partner_contact_nutrition](partner_contact_nutrition/) | 9.0.1.0.0 | Provide caloric intake
-[partner_contact_nutrition_diet](partner_contact_nutrition_diet/) | 9.0.1.0.0 | Set the nutrition diet of your contacts
-[partner_contact_personal_information_page](partner_contact_personal_information_page/) | 9.0.1.0.0 | Add a page to contacts form to put personal information
-[partner_contact_weight](partner_contact_weight/) | 9.0.1.0.0 | Provide contact weight
-[partner_default_sale_discount](partner_default_sale_discount/) | 9.0.1.0.0 | Default sales discount per partner
-[partner_external_map](partner_external_map/) | 9.0.1.0.0 | Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others
-[partner_financial_risk](partner_financial_risk/) | 9.0.1.0.0 | Manage partner risk
-[partner_firstname](partner_firstname/) | 9.0.1.0.0 | Split first name and last name for non company partners
-[partner_identification](partner_identification/) | 9.0.1.0.0 | Partner Identification Numbers
-[partner_multi_relation](partner_multi_relation/) | 9.0.1.1.1 | Partner relations
-[partner_sector](partner_sector/) | 9.0.1.0.1 | Add partner sectors
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[base_location](base_location/) | 9.0.1.0.0 | 9.0.1.1.0 | Enhanced zip/npa management system
+[base_location_geonames_import](base_location_geonames_import/) | 9.0.1.0.1 | :repeat: | Import better zip entries from Geonames
+[base_partner_merge](base_partner_merge/) | 9.0.1.0.0 | :repeat: | Partner merge wizard without dependency on CRM
+[partner_address_street3](partner_address_street3/) | 9.0.1.1.0 | :repeat: | Street3 in addresses
+[partner_contact_birthdate](partner_contact_birthdate/) | 9.0.1.0.0 | :repeat: | Contact's birthdate
+[partner_contact_department](partner_contact_department/) | 9.0.1.0.0 | :repeat: | Assign contacts to departments
+[partner_contact_gender](partner_contact_gender/) | 9.0.1.1.0 | :repeat: | Add gender field to contacts
+[partner_contact_height](partner_contact_height/) | 9.0.1.0.0 | 9.0.1.0.1 | Provide contact height.
+[partner_contact_in_several_companies](partner_contact_in_several_companies/) | 9.0.1.0.0 | :repeat: | Allow to have one contact in several partners
+[partner_contact_job_position](partner_contact_job_position/) | 9.0.1.0.0 | :repeat: | Categorize job positions for contacts
+[partner_contact_nationality](partner_contact_nationality/) | 9.0.1.0.0 | :repeat: | Add nationality field to contacts
+[partner_contact_nutrition](partner_contact_nutrition/) | 9.0.1.0.0 | 9.0.1.0.1 | Provide caloric intake
+[partner_contact_nutrition_diet](partner_contact_nutrition_diet/) | 9.0.1.0.0 | :repeat: | Set the nutrition diet of your contacts
+[partner_contact_personal_information_page](partner_contact_personal_information_page/) | 9.0.1.0.0 | :repeat: | Add a page to contacts form to put personal information
+[partner_contact_weight](partner_contact_weight/) | 9.0.1.0.0 | 9.0.1.0.1 | Provide contact weight
+[partner_default_sale_discount](partner_default_sale_discount/) | 9.0.1.0.0 | :repeat: | Default sales discount per partner
+[partner_external_map](partner_external_map/) | 9.0.1.0.0 | :repeat: | Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others
+[partner_financial_risk](partner_financial_risk/) | 9.0.1.0.0 | :repeat: | Manage partner risk
+[partner_firstname](partner_firstname/) | 9.0.1.0.0 | 9.0.2.0.0 | Split first name and last name for non company partners
+[partner_identification](partner_identification/) | 9.0.1.0.0 | :repeat: | Partner Identification Numbers
+[partner_multi_relation](partner_multi_relation/) | 9.0.1.1.1 | :repeat: | Partner relations
+[partner_sector](partner_sector/) | 9.0.1.0.1 | :repeat: | Add partner sectors
 
 
 Unported addons
 ---------------
-addon | version | summary
---- | --- | ---
-[account_partner_merge](account_partner_merge/) | 1.0 (unported) | Account Partner Merge
-[base_contact](base_contact/) | 8.0.2.0.0 (unported) | [DEPRECATED] Manage your contacts separately
-[base_continent](base_continent/) | 8.0.1.0.0 (unported) | Continent management
-[base_location_nuts](base_location_nuts/) | 8.0.1.0.0 (unported) | NUTS Regions
-[base_partner_sequence](base_partner_sequence/) | 8.0.1.1.0 (unported) | Sets customer's code from a sequence
-[firstname_display_name_trigger](firstname_display_name_trigger/) | 1.0 (unported) | Link module if partner_lastname and account_report_company are installed
-[partner_auto_salesman](partner_auto_salesman/) | 8.0.1.0.0 (unported) | Partner auto salesman
-[partner_contact_address_detailed](partner_contact_address_detailed/) | 8.0.1.0.0 (unported) | All address data in summarized contact form
-[partner_helper](partner_helper/) | 8.0.0.1.0 (unported) | Partner Helper
-[partner_street_number](partner_street_number/) | 8.0.0.1.0 (unported) | Introduces separate fields for street name and street number.
-[portal_partner_merge](portal_partner_merge/) | 8.0.1.0.0 (unported) | Portal Partner Merge
-[res_partner_affiliate](res_partner_affiliate/) | 8.0.1.0.0 (unported) | Partner Affiliates
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[account_partner_merge](account_partner_merge/) | 1.0 (unported) | :repeat: | Account Partner Merge
+[base_contact](base_contact/) | 8.0.2.0.0 (unported) | :x: | [DEPRECATED] Manage your contacts separately
+[base_continent](base_continent/) | 8.0.1.0.0 (unported) | :repeat: | Continent management
+[base_location_nuts](base_location_nuts/) | 8.0.1.0.0 (unported) | :repeat: | NUTS Regions
+[base_partner_sequence](base_partner_sequence/) | 8.0.1.1.0 (unported) | 9.0.0.1.0 | Sets customer's code from a sequence
+[firstname_display_name_trigger](firstname_display_name_trigger/) | 1.0 (unported) | :repeat: | Link module if partner_lastname and account_report_company are installed
+[partner_auto_salesman](partner_auto_salesman/) | 8.0.1.0.0 (unported) | :repeat: | Partner auto salesman
+[partner_contact_address_detailed](partner_contact_address_detailed/) | 8.0.1.0.0 (unported) | :repeat: | All address data in summarized contact form
+[partner_helper](partner_helper/) | 8.0.0.1.0 (unported) | 9.0.0.1.0 | Partner Helper
+[partner_street_number](partner_street_number/) | 8.0.0.1.0 (unported) | :repeat: | Introduces separate fields for street name and street number.
+[portal_partner_merge](portal_partner_merge/) | 8.0.1.0.0 (unported) | :repeat: | Portal Partner Merge
+[res_partner_affiliate](res_partner_affiliate/) | 8.0.1.0.0 (unported) | 9.0.1.0.0 | Partner Affiliates
 
 [//]: # (end addons)
 

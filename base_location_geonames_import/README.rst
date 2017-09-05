@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
 ================================================================
@@ -21,11 +21,13 @@ This module adds a wizard to import better zip entries from Geonames database.
 Installation
 ------------
 
+
 For installing this module, you need these Python libraries: requests and
 unicodecsv.
 
 Configuration
 -------------
+
 
 
 For seeing the menu, you need to activate *Technical features* option in your 
@@ -36,6 +38,8 @@ If want want/need to modify the default URL
 system parameter.
 
 Usage
+-----
+
 -----
 
 =====
@@ -56,8 +60,10 @@ better zip entries.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -73,9 +79,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Alexis de Lattre <alexis.delattre@akretion.com>
@@ -91,6 +100,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png
