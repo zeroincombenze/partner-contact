@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-7.svg)](http://erp7.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -60,37 +60,37 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[account_partner_merge](account_partner_merge/) | 1.0 |  N/D  | Account Partner Merge
-[base_contact](base_contact/) | 1.0 |  N/D  | Contacts Management
-[base_contact_function](base_contact_function/) | 1.0 |  N/D  | Contact by Function
-[base_contact_function_partner_firstname](base_contact_function_partner_firstname/) | 0.1 |  N/D  | Contacts by Functions - Partner Firstname Bindings
-[base_contact_phone_extension](base_contact_phone_extension/) | 1.1 |  N/D  | Base Contact Bindings for Partner Phone Number Extension
-[base_continent](base_continent/) | 1.0 |  N/D  | Continent management
-[base_location](base_location/) | 1.0 |  N/D  | Location management (aka Better ZIP)
-[base_partner_merge](base_partner_merge/) | 0.1 |  N/D  | Base Partner Merge
-[base_partner_sequence](base_partner_sequence/) | 1.1 |  N/D  | Sets customer's code from a sequence
-[firstname_display_name_trigger](firstname_display_name_trigger/) | 1.0 |  N/D  | Link module if partner_lastname and account_report_company are installed
-[partner_address_street3](partner_address_street3/) | 7.0.0.1.0 |  N/D  | Street3 in addresses
-[partner_auto_salesman](partner_auto_salesman/) | 1.0 |  N/D  | Partner auto salesman
-[partner_birth_name](partner_birth_name/) | 1.0 |  N/D  | Partner Birth Name
-[partner_contact_address_detailed](partner_contact_address_detailed/) | 1.0 |  N/D  | All address data in summarized contact form
-[partner_firstname](partner_firstname/) | 7.0.1.2.0 |  N/D  | Partner first name, last name
-[partner_helper](partner_helper/) | 0.1 |  N/D  | Partner Helper
-[partner_phone_extension](partner_phone_extension/) | 1.1 |  N/D  | Partner Phone Number Extension
-[partner_relations](partner_relations/) | 1.1 |  N/D  | Partner relations
-[partner_relations_in_tab](partner_relations_in_tab/) | 7.0.1.0.0 |  N/D  | Show partner relations in own tab
-[partner_street_number](partner_street_number/) | 0.1 |  N/D  | Split street name and number
-[passport](passport/) | 0.1 |  N/D  | Passport Management
-[portal_partner_merge](portal_partner_merge/) | 1.0 |  N/D  | Portal Partner Merge
-[res_partner_affiliate](res_partner_affiliate/) | 1.0 |  N/D  | Partner Affiliates
+[account_partner_merge](account_partner_merge/) | 1.0 | :repeat: | Account Partner Merge
+[base_contact](base_contact/) | 1.0 | :repeat: | Contacts Management
+[base_contact_function](base_contact_function/) | 1.0 | :repeat: | Contact by Function
+[base_contact_function_partner_firstname](base_contact_function_partner_firstname/) | 0.1 | :repeat: | Contacts by Functions - Partner Firstname Bindings
+[base_contact_phone_extension](base_contact_phone_extension/) | 1.1 | :repeat: | Base Contact Bindings for Partner Phone Number Extension
+[base_continent](base_continent/) | 1.0 | :repeat: | Continent management
+[base_location](base_location/) | 1.0 | :repeat: | Location management (aka Better ZIP)
+[base_partner_merge](base_partner_merge/) | 0.1 | :repeat: | Base Partner Merge
+[base_partner_sequence](base_partner_sequence/) | 1.1 | :repeat: | Sets customer's code from a sequence
+[firstname_display_name_trigger](firstname_display_name_trigger/) | 1.0 | :repeat: | Link module if partner_lastname and account_report_company are installed
+[partner_address_street3](partner_address_street3/) | 7.0.0.1.0 | :repeat: | Street3 in addresses
+[partner_auto_salesman](partner_auto_salesman/) | 1.0 | :repeat: | Partner auto salesman
+[partner_birth_name](partner_birth_name/) | 1.0 | :repeat: | Partner Birth Name
+[partner_contact_address_detailed](partner_contact_address_detailed/) | 1.0 | :repeat: | All address data in summarized contact form
+[partner_firstname](partner_firstname/) | 7.0.1.2.0 | :repeat: | Partner first name, last name
+[partner_helper](partner_helper/) | 0.1 | :repeat: | Partner Helper
+[partner_phone_extension](partner_phone_extension/) | 1.1 | :repeat: | Partner Phone Number Extension
+[partner_relations](partner_relations/) | 1.1 | 7.0.1.1.1 | Partner relations
+[partner_relations_in_tab](partner_relations_in_tab/) | 7.0.1.0.0 | :repeat: | Show partner relations in own tab
+[partner_street_number](partner_street_number/) | 0.1 | :repeat: | Split street name and number
+[passport](passport/) | 0.1 | :repeat: | Passport Management
+[portal_partner_merge](portal_partner_merge/) | 1.0 | :repeat: | Portal Partner Merge
+[res_partner_affiliate](res_partner_affiliate/) | 1.0 | :repeat: | Partner Affiliates
 
 
 Unported addons
 ---------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[base_address_category](__unported__/base_address_category/) | 1.2 (unported) |  N/D  | Partner Address Category
-[partner_address_ldap](__unported__/partner_address_ldap/) | 1.2 (unported) |  N/D  | Partner synchronization from OpenERP to ldap
+[base_address_category](__unported__/base_address_category/) | 1.2 (unported) | :x: | Partner Address Category
+[partner_address_ldap](__unported__/partner_address_ldap/) | 1.2 (unported) | :x: | Partner synchronization from OpenERP to ldap
 
 [//]: # (end addons)
 
