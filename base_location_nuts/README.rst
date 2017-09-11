@@ -30,6 +30,7 @@ Installation
 
 
 
+
 We recommend to install another addon (one for each country) in order to relate
 NUTS with states defined by each localization addon, for example:
 
@@ -39,6 +40,7 @@ NUTS with states defined by each localization addon, for example:
 
 Configuration
 -------------
+
 
 
 
@@ -58,6 +60,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 Only Administrator can manage NUTS list (it is not neccesary because
@@ -72,8 +76,10 @@ Known issues / Roadmap
 ----------------------
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -87,10 +93,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -102,6 +111,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
