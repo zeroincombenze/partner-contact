@@ -24,8 +24,10 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -49,6 +51,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 To use this module, you need to:
@@ -67,11 +71,13 @@ Known issues / Roadmap
 
 
 
+
 * This module doesn't work with *product_visible_discount*, as it overwrites
   the discount field with its own value.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -85,6 +91,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -92,7 +99,9 @@ Images
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -101,6 +110,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

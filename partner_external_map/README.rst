@@ -46,8 +46,10 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -58,6 +60,8 @@ to the author of the module, so that the module can be updated with more
 pre-configured map websites.
 
 Usage
+-----
+
 -----
 
 -----
@@ -82,11 +86,13 @@ Known issues / Roadmap
 
 
 
+
 * Let decide if the user prefers to use addresses instead coordinates when
   *base_geolocalize* is installed.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -104,10 +110,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -117,6 +126,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
