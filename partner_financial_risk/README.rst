@@ -26,8 +26,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -39,6 +41,8 @@ To configure this module, you need to:
    of days to last after the due date to consider an invoice as unpaid.
 
 Usage
+-----
+
 -----
 
 -----
@@ -68,8 +72,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -86,11 +92,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -102,6 +111,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

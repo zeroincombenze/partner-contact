@@ -24,8 +24,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -36,6 +38,8 @@ To manage sectors, you need to:
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -61,11 +65,13 @@ Known issues / Roadmap
 
 
 
+
 * Add a unique constraint for name per parent sector.
 
 
 Bug Tracker
 -----------
+
 
 
 
@@ -80,11 +86,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -98,6 +107,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

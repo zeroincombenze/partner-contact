@@ -23,11 +23,13 @@ Installation
 
 
 
+
 For installing this module, you need these Python libraries: requests and
 unicodecsv.
 
 Configuration
 -------------
+
 
 
 
@@ -40,6 +42,8 @@ If want want/need to modify the default URL
 system parameter.
 
 Usage
+-----
+
 -----
 
 -----
@@ -66,8 +70,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -87,11 +93,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -109,6 +118,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 

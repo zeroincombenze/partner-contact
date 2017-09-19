@@ -34,6 +34,7 @@ Installation
 
 
 
+
 Upon installation, the module will do a simple migration of existing values in
 the street column to split up the street name and number.
 
@@ -42,7 +43,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -54,8 +58,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -65,11 +71,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -86,6 +95,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 

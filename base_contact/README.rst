@@ -24,12 +24,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -47,6 +51,7 @@ For further information, please visit:
 
 Known issues / Roadmap
 ----------------------
+
 
 
 
@@ -69,8 +74,10 @@ Bug Tracker
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -79,7 +86,9 @@ Credits
 
 
 
+
 ### Contributors
+
 
 
 
@@ -95,6 +104,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
