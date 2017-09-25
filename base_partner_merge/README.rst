@@ -28,6 +28,7 @@ Installation
 
 
 
+
 To install this module, you need to have crm module present (but not installed).
 This is because we reuse the existing wizard without installing CRM.
 
@@ -38,7 +39,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -61,8 +65,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -75,6 +81,7 @@ help us smashing it by providing a detailed and welcomed feedback.
 
 Credits
 -------
+
 
 
 
@@ -94,7 +101,9 @@ Based Holger Brunn's idea.
 
 
 
+
 ### Contributors
+
 
 
 
@@ -102,6 +111,8 @@ Based Holger Brunn's idea.
 ### Funders
 
 ### Maintainer
+
+
 
 
 

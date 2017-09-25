@@ -35,11 +35,13 @@ Installation
 
 
 
+
 No specific installation step required
 
 
 Configuration
 -------------
+
 
 
 
@@ -64,6 +66,8 @@ Python validation code:
    })
 
 Usage
+-----
+
 -----
 
 -----
@@ -106,12 +110,14 @@ Known issues / Roadmap
 
 
 
+
 * If you want to search a partner by ID you will use advance search form.
   You can't search by issuer, valid dates, category or notes.
 
 
 Bug Tracker
 -----------
+
 
 
 
@@ -134,12 +140,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -155,6 +164,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

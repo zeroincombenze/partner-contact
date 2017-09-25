@@ -27,8 +27,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -39,6 +41,8 @@ To configure job positions, you need to:
 * Go to *Sales > Configuration > Address Book > Job Positions*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -64,8 +68,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -87,12 +93,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -107,6 +116,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -25,8 +25,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -37,6 +39,8 @@ To manage available ranges, you need to:
 * Go to *Sales > Configuration > Contacts > Ranges by quantity of employees*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -63,8 +67,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -86,12 +92,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -105,6 +114,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

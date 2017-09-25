@@ -28,6 +28,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 #. Clone the branch 10.0 of the repository https://github.com/OCA/partner-contact
@@ -42,7 +43,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -68,8 +72,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -86,11 +92,13 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -101,11 +109,14 @@ Images
 
 
 
+
 * Fekete Mihai <feketemihai@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -26,6 +26,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 * Ensure that the current contents of the *birthdate* field in the
@@ -43,9 +44,12 @@ Configuration
 
 
 
+
 No configuration is needed.
 
 Usage
+-----
+
 -----
 
 -----
@@ -75,12 +79,14 @@ Known issues / Roadmap
 
 
 
+
 * If you have data in your *res.partner* records' *birthdate* field that cannot
   be converted to date by Pyhton's strptime_ function, those records will have
   an empty *birthdate_date* after install.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -92,12 +98,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -112,6 +121,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
