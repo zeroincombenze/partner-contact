@@ -31,6 +31,7 @@ Installation
 
 
 
+
 This module exists to ensure that upgraded databases continue to work.
 There should be no reason to install it directly, and there should be no
 modules depending on it.
@@ -42,9 +43,12 @@ Configuration
 
 
 
+
 There is no configuration required for this module.
 
 Usage
+-----
+
 -----
 
 -----
@@ -73,10 +77,12 @@ Known issues / Roadmap
 
 
 
+
 * None.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -98,12 +104,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -118,6 +127,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

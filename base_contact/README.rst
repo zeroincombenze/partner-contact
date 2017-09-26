@@ -25,13 +25,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -56,6 +60,7 @@ Known issues / Roadmap
 
 
 
+
 .. warning::
     **DEPRECATED!!**
 
@@ -75,8 +80,10 @@ Bug Tracker
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -87,7 +94,9 @@ Credits
 
 
 
+
 ### Contributors
+
 
 
 
@@ -104,6 +113,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

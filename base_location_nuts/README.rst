@@ -32,6 +32,7 @@ Installation
 
 
 
+
 You need to install another addon (one for each country) in order to use
 these NUTS, for example:
 
@@ -47,6 +48,7 @@ these NUTS, for example:
 
 Configuration
 -------------
+
 
 
 
@@ -72,6 +74,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 Only Administrator can manage NUTS list (it is not neccesary because
@@ -89,8 +93,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -109,12 +115,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -126,6 +135,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
