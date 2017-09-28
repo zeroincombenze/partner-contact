@@ -13,6 +13,7 @@
 ================================================================================================
 
 OCA partner and contact management modules for Odoo
+===================================================
 
 This project is meant to gather all community extensions about partner and contact management for Odoo.
 
