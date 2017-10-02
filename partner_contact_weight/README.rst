@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Contact Weight
+======================
 
 This module adds the weight to a contact.
 
@@ -33,6 +34,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -90,7 +93,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

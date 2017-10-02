@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Partner first name and last name
+================================
 
 This module was written to extend the functionality of contacts to support
 having separate last name and first name.
@@ -51,6 +52,8 @@ These methods can be overridden to change the format specified above.
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -120,7 +123,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

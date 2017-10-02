@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Contacts' Personal Information Page
+===================================
 
 This module extends the contact management functionality.
 
@@ -47,6 +48,8 @@ Configuration
 There is no configuration required for this module.
 
 Usage
+-----
+
 -----
 
 -----
@@ -105,7 +108,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

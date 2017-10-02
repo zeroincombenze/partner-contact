@@ -17,6 +17,7 @@
 3rd line on partner address
 
 This module extends the base *res.partner* model by supplying a 3rd line on
+===========================================================================
 addresses (`street3`).
 
 Installation
@@ -34,6 +35,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -82,7 +85,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

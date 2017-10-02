@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Password Reset
+======================
 
 This module provides a wizard that allows users to send a password reset email
 from the Partner view.
@@ -37,6 +38,8 @@ Configuration
 None required
 
 Usage
+-----
+
 -----
 
 -----
@@ -89,7 +92,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

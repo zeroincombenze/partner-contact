@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Deduplicate contact (No CRM)
+============================
 
 This module installs the deduplicate wizard from CRM without the dependency on CRM.
 
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -96,7 +99,6 @@ Author
 Yannick Vaucher
 Based Holger Brunn's idea.
 
-[![Odoo Italia Associazione]]
 
 
 

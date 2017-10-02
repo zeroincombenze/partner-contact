@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner External Maps
+=====================
 
 In the old days of Odoo/Odoo, back in version 6.1, there was an official
 *google_map* module ; this module added a *Map* button on the partner form view
@@ -73,6 +74,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 First, you need to configure in your preferences:
@@ -120,7 +123,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

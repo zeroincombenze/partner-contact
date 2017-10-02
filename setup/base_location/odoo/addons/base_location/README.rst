@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Enhanced ZIP management
+=======================
 
 This module introduces a better zip/npa management system.
 
@@ -37,6 +38,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -84,7 +87,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

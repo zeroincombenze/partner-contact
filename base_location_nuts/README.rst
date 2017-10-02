@@ -14,6 +14,7 @@
 =========================
 
 NUTS Regions
+============
 
 This module allows to import NUTS locations.
 
@@ -70,6 +71,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 Only Administrator can manage NUTS list (it is not neccesary because
@@ -108,7 +111,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

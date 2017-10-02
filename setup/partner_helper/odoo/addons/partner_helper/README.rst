@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Helper
+==============
 
 The purpose of this module is to gather generic partner methods.
 It avoids to grow up excessively the number of modules in Odoo
@@ -59,6 +60,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -92,7 +95,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

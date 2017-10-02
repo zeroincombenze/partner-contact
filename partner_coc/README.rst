@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner CoC
+===========
 
 Adds a field 'Chamber Of Commerce Registration Number' to partner.
 
@@ -33,6 +34,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -82,7 +85,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Gender
+==============
 
 This module extends the contact management functionality. It allows recording
 of a partner's gender.
@@ -40,6 +41,8 @@ Configuration
 No configuration is needed.
 
 Usage
+-----
+
 -----
 
 -----
@@ -99,7 +102,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

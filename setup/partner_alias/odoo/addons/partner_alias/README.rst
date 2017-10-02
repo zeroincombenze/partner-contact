@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Alias
+=============
 
 This module extends partners with the concepts of aliases.
 
@@ -33,6 +34,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -87,7 +90,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

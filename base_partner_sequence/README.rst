@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Base Partner Sequence
+=====================
 
 This module adds the possibility to define a sequence for
 the partner's reference. This reference is then set as default
@@ -49,6 +50,8 @@ Configuration
 No configuration is needed.
 
 Usage
+-----
+
 -----
 
 -----
@@ -100,7 +103,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

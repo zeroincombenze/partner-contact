@@ -14,6 +14,7 @@
 =========================
 
 Automatic partner creation based on VAT number
+==============================================
 
 This module allows you to create the partners (companies) based on their VAT number.
 Name and address of the partner will automatically be completed via VIES Webservice.
@@ -45,6 +46,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -97,7 +100,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

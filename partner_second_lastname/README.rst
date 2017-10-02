@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Partner second lastname
+=======================
 
 This module was written to extend the functionality of ``partner_firstname`` to
 support having a second lastname for contact partners.
@@ -57,6 +58,8 @@ These methods can be overridden to change the format specified above.
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -124,7 +127,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

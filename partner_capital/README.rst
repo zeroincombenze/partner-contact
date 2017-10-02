@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Capital
+===============
 
 This module extends the functionality of partners to support setting the
 country of origin of capital, registered capital amount and turnover.
@@ -42,6 +43,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -103,7 +106,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

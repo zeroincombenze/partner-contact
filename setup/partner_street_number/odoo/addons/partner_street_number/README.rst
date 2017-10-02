@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Split street name and number
+============================
 
 This module introduces separate fields for street name and street number.
 
@@ -48,6 +49,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -100,7 +103,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

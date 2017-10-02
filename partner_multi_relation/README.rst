@@ -14,6 +14,7 @@
 =================
 
 Partner Relations
+=================
 
 This module aims to provide generic means to model relations between partners.
 
@@ -38,6 +39,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -109,7 +112,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

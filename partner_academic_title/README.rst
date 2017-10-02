@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Partner Academic Title
+======================
 
 This module was written to adds possibility to define some academic titles and
 to add multiple titles on partners. there is a sequence on titles to display
@@ -35,6 +36,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -67,7 +70,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

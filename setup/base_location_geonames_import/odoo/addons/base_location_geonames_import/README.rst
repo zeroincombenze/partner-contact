@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Base Location Geonames Import
+=============================
 
 This module adds a wizard to import better zip entries from `Geonames <http://www.geonames.org/>`_ database.
 
@@ -44,6 +45,8 @@ If want want/need to modify the default URL
 system parameter.
 
 Usage
+-----
+
 -----
 
 -----
@@ -96,7 +99,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

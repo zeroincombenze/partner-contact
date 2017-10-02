@@ -13,6 +13,7 @@
 ================================================================================================
 
 OCA partner and contact management modules for Odoo
+===================================================
 
 This project is meant to gather all community extensions about partner and contact management for Odoo.
 
@@ -73,7 +74,7 @@ addon | version | OCA version | summary
 [partner_auto_salesman](partner_auto_salesman/) | 8.0.1.0.0 (unported) | :repeat: | Partner auto salesman
 [partner_contact_address_detailed](partner_contact_address_detailed/) | 8.0.1.0.0 (unported) | :repeat: | All address data in summarized contact form
 [portal_partner_merge](portal_partner_merge/) | 8.0.1.0.0 (unported) | :repeat: | Portal Partner Merge
-[res_partner_affiliate](res_partner_affiliate/) | 8.0.1.0.0 (unported) | :repeat: | Partner Affiliates
+[res_partner_affiliate](res_partner_affiliate/) | 8.0.1.0.0 (unported) | :x: | Partner Affiliates
 
 [//]: # (end addons)
 

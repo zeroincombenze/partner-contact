@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Employee quantity in partners
+=============================
 
 This module allows to set employee quantity for partners, and categorize them
 by ranges.
@@ -39,6 +40,8 @@ To manage available ranges, you need to:
 * Go to *Sales > Configuration > Contacts > Ranges by quantity of employees*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -93,7 +96,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 
