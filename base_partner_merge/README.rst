@@ -54,6 +54,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 You can access the wizard by going in a view list of contacts select one or multiple

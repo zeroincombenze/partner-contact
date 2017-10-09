@@ -50,6 +50,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 To use this module, simply select "Send password reset email" under the partner

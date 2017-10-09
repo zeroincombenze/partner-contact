@@ -76,6 +76,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 First, you need to configure in your preferences:
