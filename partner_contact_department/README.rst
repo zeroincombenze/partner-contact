@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Contact department
+==================
 
 This module extends the functionality of the address book to support
 departments.
@@ -42,6 +43,8 @@ To configure departments, you need to:
 * Go to *Sales > Configuration > Address Book > Departments*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -95,7 +98,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

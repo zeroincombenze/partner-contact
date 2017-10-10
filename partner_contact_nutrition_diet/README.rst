@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Contact Nutrition Diet
+==============================
 
 This module adds the nutrition diet to a partner contact:
 
@@ -38,6 +39,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -90,7 +93,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Default sales discount per partner
+==================================
 
 This module allows to define at partner level a default discount to be applied
 on sales orders as the default one. As the field is a company dependent one,
@@ -51,6 +52,8 @@ Setting a default sales discount:
 #. This value can only be filled at company partners, not for contacts.
 
 Usage
+-----
+
 -----
 
 -----
@@ -110,7 +113,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

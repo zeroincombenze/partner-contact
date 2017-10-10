@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Identification Numbers
+==============================
 
 This module allows to manage all sort of identification numbers
 and certificates which are assigned to a partner (company or individual)
@@ -59,6 +60,8 @@ Python validation code:
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -134,7 +137,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

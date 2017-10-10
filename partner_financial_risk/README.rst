@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Partner Financial Risk
+======================
 
 Adds a new page in partner to manage its *Financial Risk*.
 
@@ -43,6 +44,8 @@ To configure this module, you need to:
    of days to last after the due date to consider an invoice as unpaid.
 
 Usage
+-----
+
 -----
 
 -----
@@ -100,7 +103,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

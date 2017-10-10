@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner job position
+====================
 
 This module extends the functionality of partners job position to support
 having them categorized in tree form and allow you to choose a categorized job
@@ -41,6 +42,8 @@ To configure job positions, you need to:
 * Go to *Sales > Configuration > Address Book > Job Positions*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -94,7 +97,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

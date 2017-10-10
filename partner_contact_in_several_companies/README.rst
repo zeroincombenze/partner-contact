@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Contact in Several Companies
+====================================
 
 This module extends the contact management functionality. It allows one
 contact to have several job positions in different companies.
@@ -40,6 +41,8 @@ Configuration
 No configuration is needed.
 
 Usage
+-----
+
 -----
 
 -----
@@ -99,7 +102,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

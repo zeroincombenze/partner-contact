@@ -14,6 +14,7 @@
 =================
 
 Split street name and number
+============================
 
 This module introduces separate fields for street name and street number.
 
@@ -57,6 +58,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -79,7 +82,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

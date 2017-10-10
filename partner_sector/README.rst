@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Partner Sector
+==============
 
 This module adds the concept of economic sector for partners.
 
@@ -40,6 +41,8 @@ To manage sectors, you need to:
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -94,7 +97,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

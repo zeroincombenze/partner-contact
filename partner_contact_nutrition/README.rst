@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Partner Contact Nutrition
+=========================
 
 This module adds a 'Nutrition' tab to a contact with the following information:
 
@@ -38,6 +39,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -95,7 +98,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 
