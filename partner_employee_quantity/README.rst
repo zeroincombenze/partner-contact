@@ -42,17 +42,11 @@ To manage available ranges, you need to:
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
------
 
 =====
 
