@@ -54,15 +54,10 @@ Setting a default sales discount:
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 

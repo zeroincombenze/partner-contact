@@ -45,15 +45,10 @@ To configure departments, you need to:
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 

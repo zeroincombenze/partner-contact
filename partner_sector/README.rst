@@ -43,15 +43,10 @@ To manage sectors, you need to:
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 
