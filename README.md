@@ -10,6 +10,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 OCA partner and contact management modules for Odoo
@@ -40,7 +42,7 @@ addon | version | OCA version | summary
 [partner_contact_gender](partner_contact_gender/) | 9.0.1.1.0 | :repeat: | Add gender field to contacts
 [partner_contact_height](partner_contact_height/) | 9.0.1.0.0 | 9.0.1.0.1 | Provide contact height.
 [partner_contact_in_several_companies](partner_contact_in_several_companies/) | 9.0.1.0.0 | :repeat: | Allow to have one contact in several partners
-[partner_contact_job_position](partner_contact_job_position/) | 9.0.1.0.0 | :repeat: | Categorize job positions for contacts
+[partner_contact_job_position](partner_contact_job_position/) | 9.0.1.0.0 | 9.0.1.1.0 | Categorize job positions for contacts
 [partner_contact_nationality](partner_contact_nationality/) | 9.0.1.0.0 | :repeat: | Add nationality field to contacts
 [partner_contact_nutrition](partner_contact_nutrition/) | 9.0.1.0.0 | 9.0.1.0.1 | Provide caloric intake
 [partner_contact_nutrition_diet](partner_contact_nutrition_diet/) | 9.0.1.0.0 | :repeat: | Set the nutrition diet of your contacts
@@ -52,7 +54,7 @@ addon | version | OCA version | summary
 [partner_firstname](partner_firstname/) | 9.0.1.0.0 | 9.0.2.0.0 | Split first name and last name for non company partners
 [partner_identification](partner_identification/) | 9.0.1.0.0 | :repeat: | Partner Identification Numbers
 [partner_multi_relation](partner_multi_relation/) | 9.0.1.1.1 | :repeat: | Partner relations
-[partner_sector](partner_sector/) | 9.0.1.0.1 | :repeat: | Add partner sectors
+[partner_sector](partner_sector/) | 9.0.1.0.1 | 9.0.1.0.2 | Add partner sectors
 
 
 Unported addons
