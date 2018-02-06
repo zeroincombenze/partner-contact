@@ -32,6 +32,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 OCA partner and contact management modules for Odoo
@@ -70,7 +72,7 @@ addon | version | OCA version | summary
 [partner_contact_weight](partner_contact_weight/) | 9.0.1.0.0 | 9.0.1.0.1 | Provide contact weight
 [partner_default_sale_discount](partner_default_sale_discount/) | 9.0.1.0.0 | :repeat: | Default sales discount per partner
 [partner_external_map](partner_external_map/) | 9.0.1.0.0 | :repeat: | Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others
-[partner_financial_risk](partner_financial_risk/) | 9.0.1.0.0 | 9.0.2.0.1 | Manage partner risk
+[partner_financial_risk](partner_financial_risk/) | 9.0.1.0.0 | 9.0.2.1.0 | Manage partner risk
 [partner_firstname](partner_firstname/) | 9.0.1.0.0 | 9.0.2.0.0 | Split first name and last name for non company partners
 [partner_identification](partner_identification/) | 9.0.1.0.0 | :repeat: | Partner Identification Numbers
 [partner_multi_relation](partner_multi_relation/) | 9.0.1.1.1 | :repeat: | Partner relations
