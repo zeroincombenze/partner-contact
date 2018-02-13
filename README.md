@@ -34,6 +34,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 OCA partner and contact management modules for Odoo
@@ -76,7 +78,7 @@ addon | version | OCA version | summary
 [partner_firstname](partner_firstname/) | 9.0.1.0.0 | 9.0.2.0.0 | Split first name and last name for non company partners
 [partner_identification](partner_identification/) | 9.0.1.0.0 | :repeat: | Partner Identification Numbers
 [partner_multi_relation](partner_multi_relation/) | 9.0.1.1.1 | :repeat: | Partner relations
-[partner_sector](partner_sector/) | 9.0.1.0.1 | 9.0.1.0.2 | Add partner sectors
+[partner_sector](partner_sector/) | 9.0.1.0.1 | 9.0.1.1.2 | Add partner sectors
 
 
 Unported addons
