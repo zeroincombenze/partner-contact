@@ -52,6 +52,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 OCA partner and contact management modules for Odoo
@@ -73,7 +75,7 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[base_location](base_location/) | 10.0.1.0.1 | :repeat: | Enhanced zip/npa management system
+[base_location](base_location/) | 10.0.1.0.1 | 10.0.1.0.2 | Enhanced zip/npa management system
 [base_location_geonames_import](base_location_geonames_import/) | 10.0.1.0.1 | 10.0.1.1.1 | Import better zip entries from Geonames
 [base_location_nuts](base_location_nuts/) | 10.0.1.0.0 | :repeat: | NUTS Regions
 [base_partner_merge](base_partner_merge/) | 10.0.1.0.0 | :repeat: | Partner merge wizard without dependency on CRM
