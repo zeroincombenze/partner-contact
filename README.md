@@ -60,6 +60,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 OCA partner and contact management modules for Odoo
@@ -100,7 +102,7 @@ addon | version | OCA version | summary
 [partner_contact_job_position](partner_contact_job_position/) | 10.0.1.0.0 | 10.0.1.0.1 | Categorize job positions for contacts
 [partner_contact_nationality](partner_contact_nationality/) | 10.0.1.0.0 | :repeat: | Add nationality field to contacts
 [partner_contact_personal_information_page](partner_contact_personal_information_page/) | 10.0.1.0.0 | :repeat: | Add a page to contacts form to put personal information
-[partner_contact_weight](partner_contact_weight/) | 10.0.1.0.0 | :repeat: | Provide contact weight
+[partner_contact_weight](partner_contact_weight/) | 10.0.1.0.0 | 10.0.1.0.1 | Provide contact weight
 [partner_create_by_vat](partner_create_by_vat/) | 10.0.1.0.0 | 10.0.1.0.1 | Using VIES webservice, name and address information will be fetched and added to the partner.
 [partner_employee_quantity](partner_employee_quantity/) | 10.0.1.0.0 | :repeat: | Know how many employees a partner has
 [partner_external_map](partner_external_map/) | 10.0.1.0.0 | :repeat: | Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others
